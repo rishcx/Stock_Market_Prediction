@@ -3,3 +3,4 @@ beautifulsoup4
 yfinance
 langchain
 feedparser
+lxml
