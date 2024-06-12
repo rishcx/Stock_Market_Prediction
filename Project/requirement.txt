@@ -4,3 +4,13 @@ yfinance
 langchain
 feedparser
 lxml
+langchain-community
+pydantic
+unstructured
+libmagic
+python-magic
+python-magic-bin
+faiss-cpu
+sentence-transformers
+pandas
+numpy
