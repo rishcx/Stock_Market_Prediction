@@ -13,3 +13,10 @@ faiss-cpu
 sentence-transformers
 pandas
 numpy
+huggingface_hub
+python-dotenv
+langchain-huggingface
+transformers
+torch
+accelerate
+CTransformers
