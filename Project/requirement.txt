@@ -22,4 +22,3 @@ accelerate
 CTransformers
 nltk
 sentencepiece
-selenium
