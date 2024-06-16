@@ -20,3 +20,6 @@ transformers
 torch
 accelerate
 CTransformers
+nltk
+sentencepiece
+selenium
