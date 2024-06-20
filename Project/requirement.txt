@@ -22,3 +22,5 @@ accelerate
 CTransformers
 nltk
 sentencepiece
+exa-py
+textblob
