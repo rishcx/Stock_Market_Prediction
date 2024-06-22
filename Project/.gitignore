@@ -1,3 +1,6 @@
 .env
 venv/
 .ipynb_checkpoints/
+tesla.csv
+try.ipynb 
+new_test.ipynb
