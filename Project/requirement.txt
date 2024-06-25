@@ -25,3 +25,4 @@ sentencepiece
 exa-py
 textblob
 spacy
+matplotlib
