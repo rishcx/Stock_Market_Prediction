@@ -26,3 +26,8 @@ exa-py
 textblob
 spacy
 matplotlib
+xgboost
+seaborn
+ta
+Autoawq
+imblearn
