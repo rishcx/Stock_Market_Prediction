@@ -12,7 +12,7 @@ def scraping_article(url):
     'User-Agent': 'Your User Agent String',
     }
     r = requests.get(url, headers=headers)
-    soup = BeautifulSoup(r.text, 'html.parser')
+    soup = BeautifulSoup(r.text, 'html5lib')
     paragraphs = soup.find_all('p')
     text = [paragraph.text for paragraph in paragraphs]
     words = ' '.join(text).split(' ')
