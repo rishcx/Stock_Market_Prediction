@@ -1,4 +1,4 @@
-# DGliger Projects and Practice Work Repository
+# DGliger Projects and Practice Work Repository.
 
 Welcome to my DGliger Projects and Practice Work repository! This repository contains all the projects and practice work I've done as part of my journey with DGliger. It includes a variety of projects that demonstrate my skills, learning, and development efforts across different domains and technologies.
 
@@ -13,4 +13,4 @@ Each folder in this repository contains the source code for the respective proje
 
 Thank you for visiting my repository! I hope you find my work informative and useful.
 
-Happy coding!
+Happy coding|
